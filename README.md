@@ -3,7 +3,7 @@
 
 ### Happy Coding! ❤
 
-<p align="center" href="https://discord.com/users/561170896480501790"> <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="devin"> </p>
+<p align="center" href="https://discord.com/users/561170896480501790"> <img href="https://discord.com/users/561170896480501790" src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="devin"> </p>
 
 ### GitHub Stats 📝
 [![Devin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevinXZ&show_icons=true&hide_border=true&theme=yellow&hide=stars&include_all_commits=true&count_private=true)]()
