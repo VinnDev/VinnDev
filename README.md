@@ -2,7 +2,7 @@
 Not a profesional programmers, and i try coding and sharing code just for hobby. Currently Working on Project [Alufi Bot](https://github.com/AlufiBot)
 ## How to Contact me? 💬
 - Discord Tag: [Devin#3583](https://discord.com/users/561170896480501790)
-- Discord Server: https://discord.devinstr.tech
+- Discord Server: https://discord.devinstr.tech (cooming soon)
 ## Stats 🌟
 <p align="center">
     <img src = "https://github-readme-stats.vercel.app/api?username=DevinSTR&show_icons=true">
