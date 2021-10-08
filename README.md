@@ -1,5 +1,6 @@
 # Hi, i'm devin.
-Not a profesional programmers, and i try coding and sharing code just for hobby. Currently Working on Project [Alufi Bot](https://github.com/AlufiBot)
+Not a profesional programmers, and i try coding and sharing code just for hobby.
+<!-- Currently Working on Project [Alufi Bot](https://github.com/AlufiBot) -->
 ## How to Contact me? 💬
 - Discord Tag: [Devin#3583](https://discord.com/users/561170896480501790)
 - Discord Server: https://discord.devinstr.tech (cooming soon)
