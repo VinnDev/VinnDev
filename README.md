@@ -5,7 +5,7 @@ I am not a profesional programmers, and i just try coding and sharing, fork code
 
 ## How to Contact me? 💬
 - Discord Tag: [Devin#3583](https://discord.com/users/561170896480501790)
-- Discord Server: https://discord.devinstr.tech (cooming soon)
+- Discord Server: [Click Here!](https://discord.devinstr.tech) (cooming soon)
 
 ## Discord Profile Card 👤
 <p align="center">
