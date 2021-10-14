@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hello there! I am <strong>Devin</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    Hello there! I am <strong>Devin</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 </h2>
 <p align="center">
     I am from Indonesia
@@ -18,23 +18,23 @@
 <p align="center">
     &nbsp;
     <a href="https://github.com/DevinSTR/">
-        <img src="./assets/icons/other/github-solid.svg/" width="30px" />
+        <img src="./assets/icons/other/github-solid.svg/" width="40px" />
     </a>
     &nbsp;
     <a href="https://instagram.com/">
-        <img src="./assets/icons/other/instagram-solid.svg/" width="30px"
+        <img src="./assets/icons/other/instagram-solid.svg/" width="40px"
     </a>
     &nbsp;
     <a href="https://discord.com/users/561170896480501790">
-        <img src="./assets/icons/other/discord-solid.svg/" width="30px" />
+        <img src="./assets/icons/other/discord-solid.svg/" width="40px" />
     </a>
     &nbsp;
     <a href="https://twitter.com/">
-        <img src="./assets/icons/other/twitter-solid.svg/" width="30px" />
+        <img src="./assets/icons/other/twitter-solid.svg/" width="40px" />
     </a>
     &nbsp;
     <a href="https://youtube.com/">
-        <img src="./assets/icons/other/youtube-solid.svg/" width="30px" />
+        <img src="./assets/icons/other/youtube-solid.svg/" width="40px" />
     </a>
 <br>
 <br>
