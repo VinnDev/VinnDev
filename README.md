@@ -18,29 +18,33 @@
 <p align="center">
     &nbsp;
     <a href="https://github.com/DevinSTR/">
-        <img src="./assets/icons/other/github-solid.svg/" width="40px" />
+        <img src="./assets/icons/other/github-solid.svg/" width="30px" />
     </a>
     &nbsp;
-    <a href="https://discord.com/users/603948445362946084">
-        <img src="./assets/icons/other/discord-solid.svg/" width="40px" />
+    <a href="https://instagram.com/">
+        <img src="./assets/icons/other/instagram-solid.svg/" width="30px"
     </a>
     &nbsp;
-    <a href="https://twitter.com/devin_street/">
-        <img src="./assets/icons/other/twitter-solid.svg/" width="40px" />
+    <a href="https://discord.com/users/561170896480501790">
+        <img src="./assets/icons/other/discord-solid.svg/" width="30px" />
     </a>
     &nbsp;
-    <a href="https://www.youtube.com/">
-        <img src="./assets/icons/other/youtube-solid.svg/" width="40px" />
+    <a href="https://twitter.com/">
+        <img src="./assets/icons/other/twitter-solid.svg/" width="30px" />
+    </a>
+    &nbsp;
+    <a href="https://youtube.com/">
+        <img src="./assets/icons/other/youtube-solid.svg/" width="30px" />
     </a>
 <br>
 <br>
 <br>
     <a href="https://github.com/DevinSTR/">
-        <img src="https://komarev.com/ghpvc/?username=DevinSTR&color=blue&purple" />
+        <img src="https://komarev.com/ghpvc/?username=DevinSTR&color=5865F2" />
     </a> 
 <br>
     <a href="https://github.com/DevinSTR/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=DevinSTR&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=red&ring=gold&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=DevinSTR&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=5865F2&ring=gold&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
 <br>
 <br>
