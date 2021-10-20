@@ -16,7 +16,6 @@
     </a>
 </p>
 <p align="center">
-    &nbsp;
     <a href="https://github.com/DevinSTR/">
         <img src="./assets/icons/other/github-solid.svg/" width="40px" />
     </a>
@@ -56,5 +55,5 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DevinSTR&show_icons=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinSTR&layout=compact&theme=tokyonight" height=199 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinSTR&layout=compact&langs_count=6&theme=tokyonight" height=199 />
 </p>
