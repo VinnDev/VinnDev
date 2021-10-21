@@ -57,3 +57,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=DevinSTR&show_icons=true&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinSTR&layout=compact&langs_count=6&theme=tokyonight" height=199 />
 </p>
+
+## < Github Metrics />
+
+![Metrics](https://metrics.lecoq.io/DevinSTR?template=classic&config.timezone=Asia%2FJakarta)
