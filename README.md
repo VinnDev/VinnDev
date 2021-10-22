@@ -16,7 +16,7 @@
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/DevinSTR/">
+    <a href="https://github.com/DevinOfficial/">
         <img src="./assets/icons/other/github-solid.svg/" width="40px" />
     </a>
     &nbsp;
@@ -38,12 +38,12 @@
 <br>
 <br>
 <br>
-    <a href="https://github.com/DevinSTR/">
-        <img src="https://komarev.com/ghpvc/?username=DevinSTR&color=5865F2" />
+    <a href="https://github.com/DevinOfficial/">
+        <img src="https://komarev.com/ghpvc/?username=DevinOfficial&color=5865F2" />
     </a> 
 <br>
-    <a href="https://github.com/DevinSTR/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=DevinSTR&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=5865F2&ring=gold&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+    <a href="https://github.com/DevinOfficial/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=DevinOfficial&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=5865F2&ring=gold&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
 <br>
 <br>
@@ -54,10 +54,12 @@
 <hr/>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevinSTR&show_icons=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinSTR&layout=compact&langs_count=6&theme=tokyonight" height=199 />
+    <a href="https://github.com/DevinOfficial/">
+        <img src="https://github-readme-stats.vercel.app/api?username=DevinOfficial&show_icons=true&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinOfficial&layout=compact&langs_count=6&theme=tokyonight" height=199 />
+    </a>
 </p>
 
 ## < Github Metrics />
 
-![Metrics](https://metrics.lecoq.io/DevinSTR?template=classic&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/DevinOfficial?template=classic&config.timezone=Asia%2FJakarta)
