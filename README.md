@@ -20,7 +20,7 @@
         <img src="./assets/icons/other/github-solid.svg/" width="40px" />
     </a>
     &nbsp;
-    <a href="https://instagram.com/">
+    <a href="https://instagram.com/ofc_devin">
         <img src="./assets/icons/other/instagram-solid.svg/" width="40px" />
     </a>
     &nbsp;
