@@ -6,7 +6,7 @@
 <br>
     Enjoys writing JavaScript, TypeScript & more...
 <br>
-    I mainly work as a software engineer developer
+    I mainly work as a software engineering
 <br>
     And, I side work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
 <br>
@@ -17,23 +17,23 @@
 </p>
 <p align="center">
     <a href="https://github.com/DevinOfficial/">
-        <img src="./assets/icons/other/github-solid.svg/" width="40px" />
+        <img src="./assets/icons/other/github-solid.svg/" width="20px" />
     </a>
     &nbsp;
     <a href="https://instagram.com/ofc_devin">
-        <img src="./assets/icons/other/instagram-solid.svg/" width="40px" />
+        <img src="./assets/icons/other/instagram-solid.svg/" width="20px" />
     </a>
     &nbsp;
     <a href="https://discord.com/users/561170896480501790">
-        <img src="./assets/icons/other/discord-solid.svg/" width="40px" />
+        <img src="./assets/icons/other/discord-solid.svg/" width="20px" />
     </a>
     &nbsp;
     <a href="https://youtube.com/">
-        <img src="./assets/icons/other/youtube-solid.svg/" width="40px" />
+        <img src="./assets/icons/other/youtube-solid.svg/" width="20px" />
     </a>
     &nbsp;
     <a href="https://twitter.com/">
-        <img src="./assets/icons/other/twitter-solid.svg/" width="40px" />
+        <img src="./assets/icons/other/twitter-solid.svg/" width="20px" />
     </a>
 <br>
 <br>
@@ -45,11 +45,11 @@
     <a href="https://github.com/DevinOfficial/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=DevinOfficial&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=5865F2&ring=gold&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
+<!-- <br>
 <br>
-<br>
-    <a>
+   <!-- <a>
         <code>Powered by Devin#3583. Made with ❤️</code>
-    </a>
+    </a> -->
 </p>
 <hr/>
 
@@ -62,6 +62,5 @@
 
 ## Github Metrics
 
-![Metrics](https://metrics.lecoq.io/DevinOfficial?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FJakarta)
-
+[![Metrics](https://metrics.lecoq.io/DevinOfficial?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FJakarta)](https://github.com/DevinOfficial)
 <!-- UP -->
