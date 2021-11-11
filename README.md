@@ -2,13 +2,9 @@
     Hello there! I am <strong>Devin</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 </h2>
 <p align="center">
-    I am from Indonesia
+    Welcome to my github profile
 <br>
-    Enjoys writing JavaScript, TypeScript & more...
-<br>
-    I mainly work as a software engineering
-<br>
-    And, I side work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
+    I am from Indonesia, currently focusing on building something and I side work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
 <br>
 <br>
     <a href="https://discord.com/users/561170896480501790">
