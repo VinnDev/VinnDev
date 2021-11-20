@@ -1,18 +1,21 @@
-<h2 align="center">
+<h2>
     Hello there! I am <strong>Devin</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 </h2>
-<p align="center">
+<p>
     Welcome to my github profile
 <br>
     I am from Indonesia, currently focusing on building something and I side work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
 <br>
-<br>
     <a href="https://discord.com/users/561170896480501790">
         <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Devin#3583:discord-profile"/>
     </a>
-</p>
-<p align="center">
-    <a href="https://github.com/DevinOfficial/">
+<hr>
+    <a href="https://github.com/DevinOfficial">
+        <img src="https://komarev.com/ghpvc/?username=DevinOfficial&color=5865F2" />
+    </a> 
+<br>
+<!-- DISABLE THIS LINE
+    <a href="https://github.com/DevinOfficial">
         <img src="./assets/icons/other/github-solid.svg/" width="20px" />
     </a>
     &nbsp;
@@ -34,11 +37,9 @@
 <br>
 <br>
 <br>
-    <a href="https://github.com/DevinOfficial/">
-        <img src="https://komarev.com/ghpvc/?username=DevinOfficial&color=5865F2" />
-    </a> 
 <br>
-    <a href="https://github.com/DevinOfficial/">
+-->
+    <a href="https://github.com/DevinOfficial">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=DevinOfficial&theme=tokyonight" />
     </a>
 <!-- <br>
@@ -48,12 +49,12 @@
     </a> -->
 </p>
 <hr/>
-<details align="center">
+<details>
     <summary>
         MORE STATS...
     </summary>
-<p align="center">
-    <a href="https://github.com/DevinOfficial/">
+<p>
+    <a href="https://github.com/DevinOfficial">
         <img src="https://github-readme-stats.vercel.app/api?username=DevinOfficial&show_icons=true&theme=tokyonight" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinOfficial&layout=compact&theme=tokyonight" height=199 />
     </a>
