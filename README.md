@@ -56,16 +56,20 @@
 <p>
     <a href="https://github.com/DevinOfficial">
         <img src="https://github-readme-stats.vercel.app/api?username=DevinOfficial&show_icons=true&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/DevinOfficial">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinOfficial&layout=compact&theme=tokyonight" height=199 />
     </a>
+<!-- No More metrics, because bad slowly to load stats & image
     <h3>
         GITHUB METRICS
     </h3>
     <a href="https://github.com/DevinOfficial">
     <img src="https://metrics.lecoq.io/DevinOfficial?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FJakarta" />
     </a>
+-->
 </p>
-<footer>Copyright © 2021 <a href="https://github.com/DevinOfficial">DevinOfficial</a></footer>
+<!-- <footer>Copyright © 2021 <a href="https://github.com/DevinOfficial">DevinOfficial</a></footer> -->
 </details>
 
 <!-- UP -->
