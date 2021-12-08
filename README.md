@@ -6,7 +6,7 @@
     </a> 
     Welcome to my github
 <br>
-    I am from Indonesia, currently learn to understand all programming languages, explore the world of internet, also focusing on building something and btw, I side work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
+    I am from Indonesia, currently learn to understand all programming languages, explore the world of internet, also focusing on building something, anything and anywhere 🚀<!-- and btw, I side work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong> -->
 <br>
     <a href="https://discord.com/users/561170896480501790">
         <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Devin#3583:discord-profile"/>
