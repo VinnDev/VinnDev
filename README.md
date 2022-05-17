@@ -40,7 +40,7 @@
 <br>
 <br>
 -->
-<h3>ℹ️ Github Stats</h3>
+<h2>ℹ️ Github Stats</h2>
     <a href="https://github.com/DevinOfficial">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=DevinOfficial&theme=tokyonight" />
     </a>
