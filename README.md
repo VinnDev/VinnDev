@@ -1,12 +1,12 @@
-<h2>
+<h1>
     Hello there! I am <strong>Devin</strong> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> --><a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
-</h2>
+</h1>
     <a href="https://github.com/DevinOfficial">
         <img align="right" src="https://komarev.com/ghpvc/?username=DevinOfficial&color=5865F2" />
     </a> 
-    Welcome to my github
+    Welcome to my github profile
 <br>
-    I am from Indonesia, currently learn to understand all programming languages, explore the world of internet, also focusing on building something, anything and anywhere 🚀<!-- and btw, I side work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong> -->
+    I am from Indonesia, and I coding just for some hobby. <!-- currently learn to understand all programming languages, explore the world of internet, also focusing on building something, anything and anywhere 🚀 and btw, I side work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong> -->
 <br>
     <a href="https://discord.com/users/561170896480501790">
         <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Devin#3583:discord-profile"/>
