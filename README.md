@@ -9,7 +9,7 @@
     I am from Indonesia, and I coding just for some hobby. <!-- currently learn to understand all programming languages, explore the world of internet, also focusing on building something, anything and anywhere 🚀 and btw, I side work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong> -->
 <br>
     <a href="https://discord.com/users/561170896480501790">
-        <img src="https://lanyard.cnrad.dev/api/561170896480501790?idleMessage=I%20like%20to%20do%20something%20before%20others%20do%20it" alt="Devin#3583:discord-profile"/>
+        <img src="https://lanyard.cnrad.dev/api/561170896480501790?bg=2c2f33&idleMessage=I%20like%20to%20do%20something%20before%20others%20do%20it" alt="Devin#3583:discord-profile"/>
     </a>
 </div>
 <p>
