@@ -1,5 +1,5 @@
 <h1>
-    Hello there! I am <strong>Devin</strong> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> --><a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
+    Hello there! I am <strong>Devin</strong> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> --><a href="#"><img alt="Verified Discord Developer:discord-badges" src="https://cdn.discordapp.com/emojis/815622226548228106.gif?size=32"/></a>
 </h1>
     <a href="https://github.com/DevinOfficial">
         <img align="right" src="https://komarev.com/ghpvc/?username=DevinOfficial&color=5865F2" />
@@ -62,9 +62,9 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinOfficial&layout=compact&theme=tokyonight" />
     </a>
     <br>
-    <a href="#">
+    <!--<a href="#">
         <img src="https://activity-graph.herokuapp.com/graph?username=DevinOfficial&bg_color=0a0047&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true"/>
-    </a>
+    </a>-->
 <!-- </div> 
 </p> -->
 <!-- </details> -->
