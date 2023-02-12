@@ -11,6 +11,7 @@
 </a>
 </p>
 
+<!--
 <h2 align="center">My Statistics</h2>
 <p align="center">
 <a href="https://github.com/DevinOfficial">
@@ -20,3 +21,4 @@
     <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinOfficial&layout=compact&theme=tokyonight" />
 </a>
 </p>
+-->
