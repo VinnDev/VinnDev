@@ -1,10 +1,21 @@
 <h1 align="left">Hello there 👋</h1>
-<a href="https://github.com/VinnDev">
-<img align="left" src="https://komarev.com/ghpvc/?username=VinnDev&color=84ADEF" alt="GitHub Profile views" />
-</a>
-<br>
-<p>A Human from Earth, and just call me as Vinn</p>
 
+<table>
+<tr>
+<td align="left">
+<a href="https://github.com/VinnDev">
+<img align="center" src="https://komarev.com/ghpvc/?username=VinnDev&color=84ADEF" alt="GitHub Profile views" />
+</a>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+A Human from Earth, and just call me as Vinn.
+</td>
+</tr>
+</table>
 <table>
 <tr>
 <td align="left">
