@@ -20,7 +20,7 @@ A Human from Earth, and just call me as Vinn.
 <tr>
 <td align="left">
 <a href="https://discord.com/users/561170896480501790">
-    <img align="center" src="https://lanyard.cnrad.dev/api/561170896480501790?bg=2c2f33&idleMessage=I%20like%20to%20do%20something%20before%20others%20do%20it" alt="Discord Profile: Vinn#6779"/>
+    <img align="center" src="https://lanyard.cnrad.dev/api/561170896480501790?bg=transparent&idleMessage=I%20like%20to%20do%20something%20before%20others%20do%20it" alt="Discord Profile: Vinn#6779"/>
 </a>
 </td>
 </tr>
